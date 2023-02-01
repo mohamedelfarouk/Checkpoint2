@@ -1,0 +1,1 @@
+each screenshot corresponds to a step in the checkpoint list.
